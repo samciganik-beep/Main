@@ -198,7 +198,6 @@ const styles = StyleSheet.create({
   },
   imageOverlay: {
     ...StyleSheet.absoluteFillObject,
-    background: 'linear-gradient(transparent 40%, rgba(0,0,0,0.7))',
     backgroundColor: 'transparent',
   },
   backBtn: {
@@ -228,7 +227,6 @@ const styles = StyleSheet.create({
     right: 0,
     padding: 20,
     paddingBottom: 24,
-    background: 'linear-gradient(transparent, rgba(0,0,0,0.65))',
     backgroundColor: 'rgba(0,0,0,0.35)',
   },
   categoryBadge: {
